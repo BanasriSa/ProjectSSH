@@ -3,4 +3,4 @@ Understanding level of revision and new creation of documents in confluence
 Experience in Confluence and how I performed the task in confluence
 
 hi final try for merge from eclipse
-create new branch/repository for GitBash
+create new branch/repository for GitBash.
